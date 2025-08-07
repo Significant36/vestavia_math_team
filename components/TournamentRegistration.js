@@ -5,24 +5,23 @@ export default function TournamentRegistration() {
         <div className="cards">
           <div className="card">
             <h3>Tournament Details</h3>
-            <p><strong>Date:</strong> March 15, 2025</p>
-            <p><strong>Time:</strong> 8:00 AM - 4:00 PM</p>
+            <p><strong>Date:</strong> December TBD, 2025</p>
+            <p><strong>Time:</strong> 8:00 AM - 2:00 PM</p>
             <p><strong>Location:</strong> Vestavia Hills High School</p>
-            <p><strong>Registration Deadline:</strong> March 1, 2025</p>
+            <p><strong>Registration Deadline:</strong> TBD </p>
           </div>
           <div className="card">
             <h3>Competition Categories</h3>
-            <p>Individual competitions in Algebra, Geometry, and Advanced Topics</p>
-            <p>Team competitions with collaborative problem solving</p>
-            <p>Awards for top performers in each category</p>
-            <p>Refreshments and lunch provided for all participants</p>
+            <p><strong>Levels:</strong> 6th Grade, Prealgebra, Algebra I, Geometry, Algebra II, & Comprehensive</p>
+            <p><strong>Format:</strong> Ciphering & Written tests for each level</p>
+            <p><strong>Awards: </strong> Cool glass trophies for top performers in each category and division</p>
+            <p><strong>Misc:</strong> Refreshments and lunch offered to all participants in the Cafeteria</p>
           </div>
           <div className="card">
             <h3>Registration Info</h3>
-            <p><strong>Entry Fee:</strong> $25 per student, $100 per team</p>
-            <p><strong>Team Size:</strong> 4-6 students per team</p>
-            <p><strong>Contact:</strong> mathteam@vestaviahills.edu</p>
-            <p><strong>Registration Form:</strong> Available on school website</p>
+            <p><strong>Entry Fee:</strong> TBD</p>
+            <p><strong>Contact:</strong> TBD</p>
+            <p><strong>Registration Form:</strong> TBD </p>
           </div>
         </div>
       </section>

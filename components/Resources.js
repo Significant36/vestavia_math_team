@@ -5,21 +5,18 @@ export default function Resources() {
         <div className="cards">
           <div className="card">
             <h3>Practice Materials</h3>
-            <p>Access to past competition problems and solutions</p>
-            <p>Online problem sets and training modules</p>
-            <p>Mathematical software and graphing calculators</p>
+            <p>Check the Google Classroom for AMC/AIME resources and books</p>
+            <p>See past MAO tests <a href="https://mualphatheta.org/past_tests"> here</a> and past FAMAT tests <a href = "https://famat.org/test-bank/"> here</a></p>
           </div>
           <div className="card">
-            <h3>Coaching Staff</h3>
-            <p>Experienced mathematics teachers and professors</p>
-            <p>Alumni mentors from top universities</p>
-            <p>Guest speakers from mathematical professions</p>
+            <h3>Infinite source of knowledge</h3>
+            <p>Check out Mr. Taylor's bookshelf</p>
+            <p>Or Mrs. Hyde's big office shelves</p>
           </div>
           <div className="card">
-            <h3>Study Groups</h3>
-            <p>Peer tutoring and collaborative learning</p>
-            <p>Specialized focus groups for different topics</p>
-            <p>Exam preparation sessions</p>
+            <h3>Middle School Summer Camp</h3>
+            <p>Fundraiser for the VHHS Math Team</p>
+            <p>Specialized classes for various topics</p>
           </div>
         </div>
       </section>
