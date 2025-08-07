@@ -6,7 +6,7 @@ export default function TeamInfo() {
           <div className="card">
             <h3>Practice Schedule</h3>
             <p><strong>Main Campus:</strong> Everyday from 7:30 AM - 8:00 AM in A234 or A235</p>
-            <p><strong>Freshman Campus:</strong> 5th period in Mrs. Gifford's room</p>
+            <p><strong>Freshman Campus:</strong> 5th period with Mrs. Gifford</p>
           </div>
           <div className="card">
             <h3>Team Requirements</h3>
