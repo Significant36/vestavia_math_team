@@ -13,7 +13,7 @@ export default function Hero() {
     <section className="hero">
       <div className="hero-content">
         <h1>Vestavia Hills Math Team</h1>
-        <p>Established in [insert year], home of the Rebels</p>
+        <p>Established in 1975</p>
         <div className="cta-buttons">
           <a href="#team-info" className="cta-btn" onClick={(e) => scrollToSection(e, '#team-info')}>
             Learn More
