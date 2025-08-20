@@ -3,8 +3,8 @@ export default function Schedule() {
       <section id="schedule" className="section">
         <h2>Our Tournament Schedule</h2>
         <div className="schedule-item">
-          <div className="schedule-date">TBD</div>
-          <p><strong>Oklahoma State University</strong> October 7, 2025</p>
+          <div className="schedule-date">October 7, 2025</div>
+          <p><strong>Oklahoma State University</strong> At VHHS</p>
         </div>
         <div className="schedule-item">
           <div className="schedule-date">TBD</div>
