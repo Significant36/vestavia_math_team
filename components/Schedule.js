@@ -7,28 +7,28 @@ export default function Schedule() {
           <p><strong>Oklahoma State University</strong> At VHHS</p>
         </div>
         <div className="schedule-item">
-          <div className="schedule-date">TBD</div>
-          <p><strong>University of Georgia</strong> October 25, 2025</p>
+          <div className="schedule-date">October 25, 2025</div>
+          <p><strong>University of Georgia</strong> Athens, GA</p>
+        </div>
+        <div className="schedule-item">
+          <div className="schedule-date">November 5, 2025</div>
+          <p><strong>AMC 10/12 A</strong> VHHS</p>
+        </div>
+        <div className="schedule-item">
+          <div className="schedule-date">November 13, 2025</div>
+          <p><strong>AMC 10/12 B</strong> VHHS</p>
+        </div>
+        <div className="schedule-item">
+          <div className="schedule-date">November 15, 2025</div>
+          <p><strong>Rockdale</strong> Conyers, GA</p>
+        </div>
+        <div className="schedule-item">
+          <div className="schedule-date">February 28, 2026</div>
+          <p><strong>Alabama Statewide Math Contest</strong> TBD</p>
         </div>
         <div className="schedule-item">
           <div className="schedule-date">TBD</div>
-          <p><strong>AMC 10/12 A</strong> November 5, 2025</p>
-        </div>
-        <div className="schedule-item">
-          <div className="schedule-date">TBD</div>
-          <p><strong>AMC 10/12 B</strong> November 13, 2025</p>
-        </div>
-        <div className="schedule-item">
-          <div className="schedule-date">TBD</div>
-          <p><strong>Rockdale (Conyers, GA)</strong> November 15, 2025</p>
-        </div>
-        <div className="schedule-item">
-          <div className="schedule-date">TBD</div>
-          <p><strong>Alabama Statewide Math Contest</strong> February 28, 2026</p>
-        </div>
-        <div className="schedule-item">
-          <div className="schedule-date">TBD</div>
-          <p><strong>Clemson Calculus Challenge</strong> TBD</p>
+          <p><strong>Clemson Calculus Challenge</strong> Clemson, SC</p>
         </div>
         <div className="schedule-item">
           <div className="schedule-date">June 28 - July 3, 2026</div>
