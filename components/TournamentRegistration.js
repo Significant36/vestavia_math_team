@@ -12,7 +12,7 @@ export default function TournamentRegistration() {
           </div>
           <div className="card">
             <h3>Registration Info</h3>
-            <p><strong>Entry Fee:</strong> $10</p>
+            <p><strong>Entry Fee:</strong> $10 per student</p>
             <p><strong>Contact:</strong> Susan Gifford at <a href="giffordms@vhcs.us">giffordms@vhcs.us</a></p>
             <p><strong>Registration Form:</strong> Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-hSfT0VLZIbvFt680wRZyjLamw0a67nZR6I38vZZR5r8m3Q/viewform?usp=sharing&ouid=114059588434101076176">here</a> by December 1, 2025</p>
           </div>
